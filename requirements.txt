@@ -1,0 +1,10 @@
+os
+tensorflow 
+object_detection
+opencv-python
+numpy
+matplotlib
+time
+random
+wget
+keras
