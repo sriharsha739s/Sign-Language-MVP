@@ -1,0 +1,26 @@
+<annotation>
+	<folder>K</folder>
+	<filename>K.3d2fd20f-33ca-11ec-ad14-002b67d9a366.jpg</filename>
+	<path>C:\Users\sikha\Desktop\Catalyst Project\Tensorflow\workspace\images\collectedimages\K\K.3d2fd20f-33ca-11ec-ad14-002b67d9a366.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>K</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>301</ymin>
+			<xmax>408</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

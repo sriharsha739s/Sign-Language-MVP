@@ -1,0 +1,26 @@
+<annotation>
+	<folder>H</folder>
+	<filename>H.e2c09f3b-33c9-11ec-a8f6-002b67d9a366.jpg</filename>
+	<path>C:\Users\sikha\Desktop\Catalyst Project\Tensorflow\workspace\images\collectedimages\H\H.e2c09f3b-33c9-11ec-a8f6-002b67d9a366.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>351</xmin>
+			<ymin>376</ymin>
+			<xmax>501</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

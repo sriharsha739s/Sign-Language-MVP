@@ -1,0 +1,26 @@
+<annotation>
+	<folder>F</folder>
+	<filename>F.942c60a8-33c9-11ec-8da5-002b67d9a366.jpg</filename>
+	<path>C:\Users\sikha\Desktop\Catalyst Project\Tensorflow\workspace\images\collectedimages\F\F.942c60a8-33c9-11ec-8da5-002b67d9a366.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>248</ymin>
+			<xmax>475</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>
